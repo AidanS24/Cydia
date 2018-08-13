@@ -1,1 +1,1 @@
-dpkg-deb -Zgzip -b Package
+dpkg-deb -Zgzip -b cclinker_1.1.3
