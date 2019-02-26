@@ -1,0 +1,17 @@
+Name: CCLinker
+Package: com.asacco.cclinker
+Priority: optional
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader
+Version: 1.1.3
+Architecture: iphoneos-arm
+Description: Open the settings pane for the CC Toggles by using gestures! Added support for Amazon music instead of Pandora
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cclinkerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cclinkerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: Aidan Sacco <saccoa54@gmail.com>
+Author: Kiran Patil <patilkiran08@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios11
+Installed-Size: 192
+dev: exampledotcom
+Icon: file:///Library/PreferenceBundles/CCLinker.bundle/icon@2x.png
